@@ -4,7 +4,7 @@ package com.java.course.les2;
 // public - виден везде и все его могут поторогать
 // default (package-private) - виден всем в этой папке
 // protected - виден всем в этой папке + классам наследкникам
-
+// Комментарий
 class User {
 
     private String firstName;
