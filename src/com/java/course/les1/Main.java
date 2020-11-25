@@ -1,5 +1,7 @@
-package com.java.course;
+package com.java.course.les1;
 
+
+import com.java.course.les2.Homework;
 
 import java.util.Scanner;
 
@@ -21,9 +23,13 @@ public class Main {
         System.out.println("Abs = " + abs(inputInt));
         System.out.println("Sqrt = " + sqrt(inputInt));
 
+
         //sum(5, 10);
         //sum(10, 10);
 
+
+        Homework.main(new String[]{});
+       // App.compareAge(5);
     }
 
     // Считаем сумму
